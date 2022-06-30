@@ -1,0 +1,17 @@
+Partire da un repository locale nuovo
+	git init   
+
+Partire da un repository remoto
+	git clone
+	
+Portare in staging (in index) da untracked o da modified
+	git add *.c
+
+Commmittare
+	git commit -m 'initial project version'
+Verificare lo stato dei file
+	git status
+
+
+
+
