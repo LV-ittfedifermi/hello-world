@@ -13,6 +13,8 @@ Verificare lo stato dei file
 	git status
 Scartare le modifiche
 	git restore <file>
+History
+	git log
 
 
 
