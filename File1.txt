@@ -11,7 +11,8 @@ Commmittare
 	git commit -m 'initial project version'
 Verificare lo stato dei file
 	git status
-
+Scartare le modifiche
+	git restore <file>
 
 
 
