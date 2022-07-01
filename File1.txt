@@ -33,3 +33,5 @@ Aggiungere repository remoto
 	git remote add pb https://github.com/paulboone/ticgit
 Fetch
 	git fetch pb
+Push sul server remoto
+	git push [remote-name] [branch-name]
