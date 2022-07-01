@@ -25,3 +25,11 @@ History
 
 Riportare da stage  working dir
 	git reset HEAD <file>.....
+Annullare le mdofiche nella working dir.
+	git checkout -- <file>...
+Visualizzare i repository remoti
+	git remote -v
+Aggiungere repository remoto 
+	git remote add pb https://github.com/paulboone/ticgit
+Fetch
+	git fetch pb
